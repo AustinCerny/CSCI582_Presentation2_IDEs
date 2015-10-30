@@ -6,6 +6,7 @@
 
 *  Eclipse automatically quieries libraries installed for language and generates project folders
 	*  src folder for source code
+	
 * This can be one of the more difficult parts of an IDE to get used to. Eclipse is strict about where you are allowed to place your soruce code and the layout of the directories it uses is fixed and differs depending on which language or type of program is being developed
 
 ***
