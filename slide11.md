@@ -7,7 +7,7 @@
 	* like spellcheck, this feature isn't as smart as you or know what your trying to do
 
 
-![Alt text](https://github.com/AustinCerny/CSCI582_Presentation2_IDEs/blob/master/Capture3.PNG)
+		![Alt text](https://github.com/AustinCerny/CSCI582_Presentation2_IDEs/blob/master/Capture3.PNG)
 
 ***
 [Next](https://github.com/AustinCerny/CSCI582_Presentation2_IDEs/blob/master/slide12.md)
