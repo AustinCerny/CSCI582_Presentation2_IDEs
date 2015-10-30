@@ -3,7 +3,7 @@
 ***
 
 *  Eclipse uses built in version control, pervious versions of files can be compared with using
-	*  right click >> compare with >> local history ...
+	*  **right click file >> compare with >> local history ...**
 	*  build in tools locate/highlight differences in code
 
 
