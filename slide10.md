@@ -2,7 +2,7 @@
 # Eclipse Sample Project
 ***
 * Projects in Eclipse are started by selecting
-	*  file --> new --> X project   where X is the language being used
+	*  file >> new >> X project   where X is the language being used
 
 *  Eclipse automatically quieries libraries installed for language and generates project folders
 	*  src folder for source code
