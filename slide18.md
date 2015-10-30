@@ -9,6 +9,8 @@
 	*  Requires internet access for development
 	*  Introduces new security threats (code being stolen, sabatoged etc.)
 		*  not incredibly dangerous with modern security features
+		  
+		
 *  Most common cloud based _commercial_ IDE: [cloud9](https://c9.io)
 *  Open Source Option: [codebox](https://github.com/CodeboxIDE/codebox)
 
